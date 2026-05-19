@@ -50,6 +50,7 @@ The analysis suggests opportunities for:
 - adaptive wellness insights
 
 ## Dashboard
+[View Full Dashboard PDF](wearable_fitness_dashboard.pdf)
 [Insert dashboard screenshot here]
 
 ## Future Improvements
