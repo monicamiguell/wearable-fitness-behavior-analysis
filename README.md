@@ -51,6 +51,8 @@ The analysis suggests opportunities for:
 
 ## Dashboard
 [View Full Dashboard PDF](wearable_fitness_dashboard.pdf)
+
+
 ![Dashboard Screenshot](dashboard.png)
 
 ## Future Improvements
