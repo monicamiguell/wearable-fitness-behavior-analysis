@@ -51,7 +51,7 @@ The analysis suggests opportunities for:
 
 ## Dashboard
 [View Full Dashboard PDF](wearable_fitness_dashboard.pdf)
-[Insert dashboard screenshot here]
+![Dashboard Screenshot](dashboard.png)
 
 ## Future Improvements
 Potential future enhancements include:
