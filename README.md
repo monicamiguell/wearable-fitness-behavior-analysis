@@ -32,6 +32,12 @@ Users were categorized into:
 
 based primarily on average daily step counts.
 
+## Dashboard
+[View Full Dashboard PDF](wearable_fitness_dashboard.pdf)
+
+
+![Dashboard Screenshot](dashboard.png)
+
 ## Key Findings
 
 ### 1. Moderate activity represented the largest user segment
@@ -43,18 +49,11 @@ Moderate activity users demonstrated more consistent sleep duration patterns.
 ### 3. Sleep stage distributions differed by activity segment
 Highly active users demonstrated different recovery patterns compared to low activity users.
 
-## Dashboard
-[View Full Dashboard PDF](wearable_fitness_dashboard.pdf)
-
-
-![Dashboard Screenshot](dashboard.png)
-
 ### 4. Behavioral data creates opportunities for personalized wellness insights
 The analysis suggests opportunities for:
 - recovery recommendations
 - personalized engagement features
 - adaptive wellness insights
-
 
 ## Future Improvements
 Potential future enhancements include:
