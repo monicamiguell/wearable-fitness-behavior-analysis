@@ -38,6 +38,8 @@ based primarily on average daily step counts.
 
 ![Dashboard Screenshot](dashboard.png)
 
+[Interactive Looker Studio Dashboard](https://datastudio.google.com/s/r9Pv56HozZY)
+
 ## Key Findings
 
 ### 1. Low activity represented the largest user segment
