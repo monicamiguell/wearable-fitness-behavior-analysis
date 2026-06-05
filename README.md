@@ -40,7 +40,7 @@ based primarily on average daily step counts.
 
 ## Key Findings
 
-### 1. Moderate activity represented the largest user segment
+### 1. Low activity represented the largest user segment
 Most users fell into low-to-moderate activity categories.
 
 ### 2. Sleep duration varied across activity levels
