@@ -44,7 +44,7 @@ based primarily on average daily step counts.
 Most users fell into low-to-moderate activity categories.
 
 ### 2. Sleep duration varied across activity levels
-Moderate activity users demonstrated more consistent sleep duration patterns.
+High activity users demonstrated more consistent sleep duration patterns.
 
 ### 3. Sleep stage distributions differed by activity segment
 Highly active users demonstrated different recovery patterns compared to low activity users.
