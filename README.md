@@ -33,8 +33,6 @@ Users were categorized into:
 based primarily on average daily step counts.
 
 ## Dashboard
-[View Full Dashboard PDF](wearable_fitness_dashboard.pdf)
-
 
 ![Dashboard Screenshot](dashboard.png)
 
@@ -42,20 +40,25 @@ based primarily on average daily step counts.
 
 ## Key Findings
 
-### 1. Low activity represented the largest user segment
-Most users fell into low-to-moderate activity categories.
+### 1. Low-to-moderate activity users represented the majority of the population
 
-### 2. Sleep duration varied across activity levels
-High activity users demonstrated more consistent sleep duration patterns.
+Most users fell into the low and moderate activity segments, indicating the greatest opportunity for engagement initiatives exists among less active users rather than highly active users.
 
-### 3. Sleep stage distributions differed by activity segment
-Highly active users demonstrated different recovery patterns compared to low activity users.
+### 2. Higher activity did not correspond to longer sleep duration
 
-### 4. Behavioral data creates opportunities for personalized wellness insights
-The analysis suggests opportunities for:
-- recovery recommendations
-- personalized engagement features
-- adaptive wellness insights
+Users in the high activity segment averaged fewer minutes asleep than low activity users, suggesting total sleep duration alone may not fully explain recovery outcomes.
+
+### 3. Recovery patterns differed across activity segments
+
+Sleep stage distributions varied across activity groups, indicating that activity behavior may influence recovery quality differently than overall sleep duration.
+
+### 4. Behavioral data can support personalized wellness experiences
+
+Differences in activity and recovery patterns suggest opportunities to deliver:
+
+- Personalized recovery recommendations
+- Adaptive engagement features
+- Activity-specific wellness insights
 
 ## Future Improvements
 Potential future enhancements include:
